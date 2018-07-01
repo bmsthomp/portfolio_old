@@ -1,0 +1,30 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden; 
+	overflow-y: auto;
+	background-color: black;
+	color: white;
+	font-family: helvetica, arial, sans-serif;
+	font-size: .85em;
+}
+#btm {
+	width: 1024px;
+	height: auto;
+	margin: 20px auto 0 auto;
+}
+p { text-align: center; }
+li { list-style: none; }
+h2 {
+	margin-top: 40px;
+	font-family: helvetica;
+	text-align: center;
+}
+canvas {
+	margin-top:20px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

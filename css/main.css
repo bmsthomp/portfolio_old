@@ -44,3 +44,9 @@ p {
 .pointer {
 	cursor: pointer;
 }
+.bg-success, .bg-danger, .bg-primary {
+	padding: 6px;
+}
+.carousel {
+	height: 460px;
+}
